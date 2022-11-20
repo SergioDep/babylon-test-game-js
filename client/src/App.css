@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  width: 100%;
+  /* overflow: hidden; */
+}
+
+#GameScene {
+  width: 100%;
+  object-fit: cover;
+}
